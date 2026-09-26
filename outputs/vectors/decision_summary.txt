@@ -1,0 +1,16 @@
+DECISION SUMMARY — 2024 Varnavas wildfire, Attica
+
+Total mapped moderate-high/high-severity priority area: 6775.9 ha,
+across 201 contiguous priority area(s) (>= 0.5 ha each).
+
+Top-priority area for field assessment: rank 1, 5663.4 ha,
+with mean dNBR 0.630, centred at approximately
+38.1482 N, 23.9201 E.
+
+Recommendation: field crews should consider priority areas in rank order
+(see `priority_areas_ranked.geojson`), based on the combined mapped extent
+and mean dNBR of each area.
+
+Caveat: dNBR is a spectral proxy for burn severity, not validated ground
+truth for this fire. The ranking should therefore be used as a field-
+prioritisation aid rather than as a final severity determination.
